@@ -1,0 +1,12 @@
+{
+  "name": "ecommerce-admin-platform",
+  "version": "1.0.0",
+  "description": "Role-Based eCommerce Admin Dashboard built with Node.js, Express, AdminJS, Sequelize, and PostgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
